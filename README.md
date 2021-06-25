@@ -1,5 +1,4 @@
-# Algorithms
-# Algorithms- Python
+## Algorithms- Python
 ## Table of Contents:
 * [Title](#Porfolio)
 * [Description](#Description)
