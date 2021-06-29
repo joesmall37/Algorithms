@@ -14,7 +14,7 @@
 
 
 ## Usage
- - The application reviews the most common Sorting and Searchign Algorithms in Python.
+ - The application reviews the most common Sorting and Searchinf Algorithms in Python.
 
 
 ## Contribution 
